@@ -9,11 +9,13 @@ The objective of this project is to design an interactive Sales Dashboard using 
 
 Page 1
 
-<img width="627" alt="Screenshot 2024-05-18 082932" src="https://github.com/kharolekaran03/Excel-Project-Dashboard/assets/161187229/1381af2b-2e46-47dc-ae62-fe021bc1a1fc">
+<img width="627" alt="Screenshot 2024-05-18 082932" src="https://github.com/kharolekaran03/Excel_Sales_Discount_Dashboard/assets/161187229/ba0a7305-31b5-4104-a2e7-e8ec19d3e842">
+
 
 Page 2
 
-<img width="703" alt="Screenshot 2024-05-18 082756" src="https://github.com/kharolekaran03/Excel-Project-Dashboard/assets/161187229/fe497daf-c624-4a96-9159-825dae017227">
+<img width="703" alt="Screenshot 2024-05-18 082756" src="https://github.com/kharolekaran03/Excel_Sales_Discount_Dashboard/assets/161187229/c04bca0f-a917-4f50-838c-f3dc3b8c1191">
+
 
 
 Features:
